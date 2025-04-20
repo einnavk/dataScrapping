@@ -1,1 +1,1 @@
-# dataScrapping exercise  for IBBM couuse
+# dataScrapping exercise  for IBM course
